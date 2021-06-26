@@ -6,11 +6,9 @@
 - 📫 Reach out on:
 <span style="vertical-align:sub; padding-left:5px;"><a href="https://www.linkedin.com/in/bmadhur/" style="padding-right:5px;">
   <img alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-<a href="https://www.twitter.com/_madhurbansal_?s=09" style="padding-right:5px;">
+</a><a href="https://www.twitter.com/_madhurbansal_?s=09" style="padding-right:5px;">
   <img alt="Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174876.png" />
-</a>
-<a href="mailto:madhur.bansal0016@gmail.com">
+</a><a href="mailto:madhur.bansal0016@gmail.com">
   <img alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/2991/2991144.png" />
 </a></span>
 <br>
